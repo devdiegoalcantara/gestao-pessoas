@@ -2,7 +2,7 @@
   "name": "pass-in-web",
   "private": true,
   "version": "0.0.0",
-  "homepage": "gestao-pessoas/",
+  "homepage": "https://devdiegoalcantara.github.io/gestao-pessoas/",
   "type": "module",
   "scripts": {
     "dev": "vite",
