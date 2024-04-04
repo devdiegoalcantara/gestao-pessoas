@@ -1,30 +1,20 @@
-# React + TypeScript + Vite
+# Gestão de Participantes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="./src/assets/gestao-nlw.gif">
+> Descrição
 
-Currently, two official plugins are available:
+Projeto construído na NLW Unite um evento da Rocketseat.
+Nesse sistema, é possível visualizar informações como o ID, nome, e-mail, data de inscrição e último acesso dos participantes. 
+Tudo isso foi totalmente integrado à API criada no curso de Node.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[🔗 Clique aqui para acessar o projeto]()
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- React + Vite + TypeScript
+- Tailwind CSS
+- Git e GitHub
 
-- Configure the top-level `parserOptions` property like this:
+✉️ Contato
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+devdiegoalcantara@gmail.com
