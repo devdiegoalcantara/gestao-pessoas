@@ -54,7 +54,7 @@ import {
   
     useEffect(() => {
       const url = new URL(
-        "https://devdiegoalcantara.github.io/nodejs-server/events/9e9bd979-9d10-4915-b339-3786b1634f33/attendees"
+        "http://localhost:3333/events/9e9bd979-9d10-4915-b339-3786b1634f33/attendees"
       );
   
       url.searchParams.set("pageIndex", String(page - 1));
